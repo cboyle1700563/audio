@@ -1,0 +1,6 @@
+﻿  scene_app.cpp
+M:\cmp208\audio\scene_app.cpp(107,17): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+  
+M:\cmp208\audio\scene_app.cpp(93,6): warning 552: variable "music_playing_" was set but never used
+  
+  scene_app.vcxproj -> M:\cmp208\audio\build\vs2017\PSVita\Debug\scene_app.self
